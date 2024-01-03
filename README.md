@@ -3,7 +3,7 @@
 ![excel-handler-logo](https://github.com/DavlatbekRabbimov/Online-shop/assets/110993036/f2edc7bd-997b-4bfa-b7dc-03a0c8212572)
 
 ### YOUTUBE CHANNEL URL: 
-[https://www.youtube.com/watch?v=AoWz-0nxDdk](https://www.youtube.com/watch?v=AzSnNBB9hks&t=198s))]
+[https://www.youtube.com/watch?v=AoWz-0nxDdk](https://www.youtube.com/watch?v=AzSnNBB9hks&t=198s))
 
 ### TOOLS
 - HTML
