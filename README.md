@@ -7,11 +7,10 @@
 
 ### TOOLS
 - HTML
-- CSS / Tailwind
+- CSS / Tailwind CSS
 - Java Script (React, Vite)
-- Java (Spring boot)
-- MySQL (Data base)
-- 
+- Java (Spring framework)
+
 ### CONTACTS
 - Phone number: +998(90) 600 69 89
 - E-mail address: davsdd091@gmail.com
